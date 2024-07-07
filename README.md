@@ -50,18 +50,19 @@ Here are examples of how to use the script and what the output will look like:
 
 ### Original Images
 
-![Original Image 1](mrb.jpg)
-![Original Image 2](Mona_Lisa.jpg)
+<p align="center">
+  <img src="./mrb.jpg" width="25%" />
+  <img src="./Mona_Lisa.jpg" width="25%" />
+</p>
+
 
 ### Hybrid Image
 
-**Large Scale:**
+<p align="center">
+  <img src="./large.png"  />
+  <img src="./small.png" width="20%" />
+</p>
 
-![Hybrid Image Large](large.png)
-
-**Small Scale:**
-
-![Hybrid Image Small](small.png)
 
 ## Contributing
 
