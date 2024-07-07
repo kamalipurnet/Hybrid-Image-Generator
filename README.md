@@ -34,7 +34,7 @@ Hybrid images are created by combining the low-frequency (blurred) component of 
 ## Usage
 
 1. Place your input images in the project directory.
-2. Update the image file paths in `hybrid_image_generator.m`:
+2. Update the image file paths in `Hybrid_Image_Generator.m`:
     ```matlab
     image1 = imread('Mona_Lisa.jpg');
     image2 = imread('mrb.jpg');
